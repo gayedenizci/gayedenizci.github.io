@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{jFsP:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),c=a.n(t),l=a("7oih"),r=a("JwsL");n.default=function(){return c.a.createElement(l.a,null,c.a.createElement("article",{className:"container box style3"}),c.a.createElement(r.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-element-js-580c3f3fdda040e3f096.js.map
